@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <openerp>
     <data noupdate="1">
-        <function model="ir.config_parameter" name="set_param" eval="('app_system_name', 'odooAi')"/>
+        <function model="ir.config_parameter" name="set_param" eval="('app_system_name', 'ERP')"/>
         <function model="ir.config_parameter" name="set_param" eval="('app_show_lang', 'True')"/>
         <function model="ir.config_parameter" name="set_param" eval="('app_show_debug', 'True')"/>
         <function model="ir.config_parameter" name="set_param" eval="('app_show_documentation', 'True')"/>
@@ -17,7 +17,7 @@
         <function model="ir.config_parameter" name="set_param" eval="('app_account_title', 'My Online Account')"/>
         <function model="ir.config_parameter" name="set_param" eval="('app_account_url', 'https://www.odooai.cn/my')"/>
         <function model="ir.config_parameter" name="set_param" eval="('app_enterprise_url', 'https://www.odooai.cn')"/>
-        <function model="ir.config_parameter" name="set_param" eval="('app_ribbon_name', 'odooai.cn')"/>
+        <function model="ir.config_parameter" name="set_param" eval="('app_ribbon_name', 'wangoes.cn')"/>
         <function model="ir.config_parameter" name="set_param" eval="('app_ribbon_color', '#f0f0f0')"/>
         <function model="ir.config_parameter" name="set_param" eval="('app_ribbon_background_color', 'rgba(255,0,0,.4)')"/>
         <function model="ir.config_parameter" name="set_param" eval="('app_navbar_pos_pc', 'top')"/>
